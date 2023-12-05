@@ -1,28 +1,12 @@
 {
   "posts": [
     {
-      "id": 8,
-      "firstName": "thomsan",
-      "lastName": "test",
-      "email": "test@test",
-      "Mobile": "9898",
-      "salary": "1234"
-    },
-    {
       "id": 9,
-      "firstName": "first",
-      "lastName": "namw",
-      "email": "adajd",
-      "Mobile": "98990",
-      "salary": "123455678"
-    },
-    {
-      "id": 10,
-      "firstName": "first",
-      "lastName": "namw",
-      "email": "feb",
-      "Mobile": "98990",
-      "salary": "32210"
+      "firstName": "yadnya",
+      "lastName": "Gawande",
+      "email": "yadnya@gmail.com",
+      "Mobile": "9898989",
+      "salary": "500000"
     }
   ],
   "comments": [],
