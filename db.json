@@ -1,15 +1,30 @@
 {
   "posts": [
     {
-      "id": 9,
+      "id": 1,
       "firstName": "yadnya",
       "lastName": "Gawande",
-      "email": "yadnya@gmail.com",
-      "Mobile": "9898989",
-      "salary": "500000"
+      "email": "Yadnyagawande@gmail.com",
+      "Mobile": "9890201618",
+      "salary": "120000"
     }
   ],
-  "comments": [],
+  "SignupUsers": [
+    {
+      "fullName": "ankit",
+      "mobile": 75443,
+      "email": "ankit@njsf",
+      "password": "23213",
+      "id": 1
+    },
+    {
+      "fullName": "yadnya",
+      "mobile": 9890201618,
+      "email": "yadnya@gmail.com",
+      "password": "Ankit@3076",
+      "id": 2
+    }
+  ],
   "profile": {
     "name": "typicode"
   }

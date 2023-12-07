@@ -60,7 +60,7 @@ export class EmployeeDashboardComponent implements OnInit {
     this.api.getEmployee()
     .subscribe(res=>{
       this.EmployeeData = res;
-      console.log("get all employee on grid",res);
+      console.log("get all employee on grid",this.EmployeeData);
     })
   }
 
