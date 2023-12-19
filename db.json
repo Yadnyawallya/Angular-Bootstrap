@@ -23,6 +23,13 @@
       "email": "yadnya@gmail.com",
       "password": "Ankit@3076",
       "id": 2
+    },
+    {
+      "fullName": "Angad Deshmukh",
+      "mobile": 98989898,
+      "email": "ag@dgmail.com",
+      "password": "Pass@123",
+      "id": 3
     }
   ],
   "profile": {
